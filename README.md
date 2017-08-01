@@ -1,3 +1,4 @@
+test
 # vue2 多页配置实例
 
 基于`vue2 + vue-router + vuex`而组成的多页配置实例
